@@ -1,6 +1,7 @@
 ## Getting Started
 
-You must run on the Command Prompt or Terminal(Ubuntu or MacOS), not vs-code terminal
+You must run on the Command Prompt or Terminal(Ubuntu or MacOS), not vs-code terminal.
+
 this project doesn't work well when running on the Vs-code terminal
 
 First, run the development server:
